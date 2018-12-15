@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get "hello_word", to "hello"
+  get "hello", to "hello"
 end
